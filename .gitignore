@@ -2,6 +2,7 @@
 .sass-cache
 .htaccess
 .setuped
+dist/**
 node_modules/
 /wiki
 src/config/config.json

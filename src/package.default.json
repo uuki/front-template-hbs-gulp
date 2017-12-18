@@ -46,11 +46,5 @@
     "presets": [
       "es2015"
     ]
-  },
-  "localDependencies": {
-    "gulp-module-task-assemble": "0.0.1",
-    "gulp-module-task-sass_globbing": "0.0.1",
-    "gulp-module-task-sprite_smith": "0.0.1",
-    "gulp-module-task-browser_sync": "0.0.1"
   }
 }

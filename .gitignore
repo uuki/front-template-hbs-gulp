@@ -6,4 +6,5 @@ dist/**
 node_modules/
 /wiki
 src/config/config.json
+src/package.json
 ssh_config.sample

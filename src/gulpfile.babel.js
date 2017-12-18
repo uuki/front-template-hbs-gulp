@@ -63,7 +63,6 @@ gulp.task('compress', packageManager.getTask('compress'))
 /**
  * Hosting
  */
-gulp.task('serve', packageManager.getTask('serve'))
 gulp.task('browser-sync', packageManager.getTask('browser_sync', { 'hmr': false, 'use': 'vue' }))
 
 

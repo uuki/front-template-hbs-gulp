@@ -3,10 +3,10 @@
 //@import 'sprites';
 //@import 'sprites.mobile';
 //@import 'plugins';
-@import './variables/*.scss';
-@import './mixins/*.scss';
-@import './utils/*.scss';
-@import './foundations/*.scss';
-@import './layouts/*.scss';
-@import './objects/components/*.scss';
-@import './objects/projects/*.scss';
+@import './generated/_variables/*.scss';
+@import './generated/_mixins/*.scss';
+@import './generated/_utils/*.scss';
+@import './generated/_foundations/*.scss';
+@import './generated/_layouts/*.scss';
+@import './generated/_objects/components/*.scss';
+@import './generated/_objects/projects/*.scss';
